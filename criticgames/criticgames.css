@@ -1,0 +1,142 @@
+.backgroundPage{
+    background-color: #EEECEC;
+    margin-top : -100px;
+    margin : -25px 0 0px 0px;
+    
+    
+}
+.settingHeader{
+    background-color: #333;
+    height: 150px;
+    margin : 0px 0 0px 0px;
+    
+    
+}
+
+.textheader{
+    font-size: 50px;
+    color: rgb(189, 189, 0);
+    text-align: center;
+    bottom: 50px;
+    
+}
+.textheader2{
+    
+    color: white;
+    text-align: center;
+    
+    
+}
+.settingnav{
+    background-color: #333;
+    height: 3000px;
+    width: 300px;
+    float: left;
+    margin-top: -47px;
+    position: static;
+    border-top: 2px;
+    border-color: rgb(189, 189, 0);
+    border-top-style:solid ;
+    
+}
+.photo1nav{
+    font-size: 20px;
+    color: rgb(189, 189, 0);
+    text-align: center;
+    width: 250px;
+    height: 125px;
+    margin-left: 12px;
+    
+    
+}
+.photo2nav{
+    font-size: 20px;
+    color: rgb(189, 189, 0);
+    text-align: center;
+    margin-top: 0px;
+    width: 250px;
+    height: 125px;
+    margin-left: 12px;
+}
+.photo3nav{
+    font-size: 20px;
+    color: rgb(189, 189, 0);
+    text-align: center;
+    margin-top: 0px;
+    width: 250px;
+    height: 135px;
+    margin-left: 12px;
+}
+.photo4nav{
+    font-size: 20px;
+    color: rgb(189, 189, 0);
+    text-align: center;
+    position: static;
+}
+.textphto1nav{
+    font-size: 20px;
+    color: rgb(189, 189, 0);
+    text-align: center;
+    margin-top: 150px;
+}
+.textphto2nav{
+    font-size: 20px;
+    color: rgb(189, 189, 0);
+    text-align: center;
+    margin-top: 50px;
+}
+.textphto3nav{
+    font-size: 20px;
+    color: rgb(189, 189, 0);
+    text-align: center;
+    margin-top: 50px;
+}
+.settingarticle{
+    background-color:  #EEECEC;
+    float: right;
+    margin-left: 301px;
+    height: 3000px;
+    width: 1899px;  
+    position: static;  
+    
+}
+.settingfooter{
+    background-color:  #EEECEC;
+    height: 100px;
+    width: 1899px;
+    margin-top: -25px;
+    
+    
+}
+.textfooter{
+    text-align: center;
+    color:rgb(189, 189, 0);
+}
+.settingaside{
+    float: right;
+    background-color: #333;
+    height: 3000px;
+    width: 200px;
+    margin-top: -47px;
+    position: static;
+    border-top: 2px;
+    border-color: rgb(189, 189, 0);
+    border-top-style:solid ;
+}
+.textaside{
+    color: rgb(189, 189, 0);
+
+}
+.settingsection1{
+    height: 45px;
+    width: 1399px;
+    background-color: #333;
+    margin-left: 300px;
+    position: static;
+    margin-top: -1px;
+    border-top: 2px;
+    border-color: rgb(189, 189, 0);
+    border-top-style:solid ;
+    background-color:  #EEECEC;
+}
+

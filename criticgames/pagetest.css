@@ -1,0 +1,191 @@
+.settingHeader{
+    background-color: #333;
+    height: 150px;
+    margin : 0px 0 0px 0px;
+    
+    
+}
+.textheader{
+    font-size: 50px;
+    color: rgb(189, 189, 0);  
+    text-align: center;
+    bottom: 50px;
+    
+}
+.textheader2{
+    
+    color: white;
+    text-align: center;
+    
+    
+}
+.backgroundPage{
+    background-color: #D2D2D2;
+    margin-top : -25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.settingsection1{
+    margin-top: -25px;
+    height: 600px;
+    width: 100%;
+    background-color: #D2D2D2;
+}
+.settingsection3{
+
+    height: 400px;
+    width: 400px;
+}
+.tritresection1{
+    color: rgb(189, 189, 0); 
+    font-size:  50px;
+    text-align: center;
+}
+.text1section1{
+    font-size:  30px;
+    color: black;
+    text-align: center;
+}
+.text2section1{
+    font-size:  25px;
+    color: black;
+    margin-left: 50px;
+}
+.text3section1{
+    text-decoration: none;
+    font-size:  20px;
+    color: black;
+    margin-left: 50px;
+}
+.button1:hover {
+    background-image: url(fondbouton1.PNG);
+    color: white;
+    box-shadow:  30px 15px 0  rgba(0,0,0,0.24), 0 50px 50px 0 rgba(0,0,0,0.19); 
+    transform:scale(1.2, 1.2);
+}
+.settingboutonfps{
+    height: 324px;
+    width: 576px;
+    font-size: 100px;
+    color:  rgb(189, 189, 0); ;
+    background-image: url(fps-doom.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 576px 324px;
+    margin-top: 100px;
+    margin-left: 330px;
+    transition-duration: 0.9s;
+    cursor: pointer;
+    border: 10px;
+      
+}
+.settingboutonRPG{
+    height: 324px;
+    width: 576px;
+    font-size: 100px;
+    color:  rgb(189, 189, 0); ;
+    background-image: url(img-bouton-RPG.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 576px 324px;
+    margin-top: 100px;
+    margin-left: 100px;
+    transition-duration: 0.9s;
+    cursor: pointer;
+    border: 10px;
+}
+.settingboutonadventure{
+    height: 324px;
+    width: 576px;
+    font-size: 75px;
+    color:  rgb(189, 189, 0); ;
+    background-image: url(bouton-adventure.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 576px 324px;
+    margin-top: 100px;
+    margin-left: 330px;
+    transition-duration: 0.9s;
+    cursor: pointer;
+    border: 10px;
+}
+.settingboutonRTS{
+    height: 324px;
+    width: 576px;
+    font-size: 75px;
+    color:  rgb(189, 189, 0); ;
+    background-image: url(bouton-RTS.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 576px 324px;
+    margin-top: 100px;
+    margin-left: 100px;
+    transition-duration: 0.9s;
+    cursor: pointer;
+    border: 10px;
+}
+.settingboutonCourse{
+    height: 324px;
+    width: 576px;
+    font-size: 50px;
+    color:  rgb(189, 189, 0); ;
+    background-image: url(bouton-CAR.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 576px 324px;
+    margin-top: 100px;
+    margin-left: 330px;
+    transition-duration: 0.9s;
+    cursor: pointer;
+    border: 10px;
+}
+.settingboutonMMORPG{
+    height: 324px;
+    width: 576px;
+    font-size: 75px;
+    color:  rgb(189, 189, 0); ;
+    background-image: url(bouton-mmorpg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 576px 324px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    transition-duration: 0.9s;
+    cursor: pointer;
+    border: 10px;
+}
+.settingboutonRG{
+    height: 324px;
+    width: 900px;
+    font-size: 75px;
+    color:  rgb(189, 189, 0); ;
+    background-image: url(bouton-retro1.jpg) left , url(bouton-retro2.jpg) right ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 450px 324px;
+    margin-left: 330px;
+    margin-bottom: 100px;
+    transition-duration: 0.9s;
+    cursor: pointer;
+    border: 10px;
+}
+.settingsection2{
+    height: 3000px;
+    width: 100%;
+    background-color: #D2D2D2;
+    border-top: 8px;
+    border-color: rgb(189, 189, 0);
+    border-top-style:solid ;
+}
+.settingfooter{
+    background-color: #D2D2D2;
+    height: 100px;
+    width: 1899px;
+    border-top: 8px;
+    border-color: rgb(189, 189, 0);
+    border-top-style:solid ;
+}
+.textfooter{
+    text-align: center;
+    color:rgb(189, 189, 0);
+}

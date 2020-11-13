@@ -1,0 +1,49 @@
+.settingHeader{
+    background-color: #333;
+    height: 150px;
+    margin : 0px 0 0px 0px;
+    
+    
+}
+.textheader{
+    font-size: 50px;
+    color: rgb(189, 189, 0);  
+    text-align: center;
+    bottom: 50px;
+    
+}
+.textheader2{
+    
+    color: white;
+    text-align: center;
+    
+    
+}
+.backgroundPage{
+    background-color: #EEECEC;
+    margin-top : -25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*debut du setting tableux*/
+.settingsection1{
+    height: 1000px;
+    width: 1899px;
+    background-color:#D2D2D2;
+}
+.settingtable1{
+    border-collapse: collapse;
+    border-color: rgb(189, 189, 0);
+    border: 2px;
+    width: 300px;
+    
+}
+.texttable1{
+    color: rgb(189, 189, 0);
+    text-align: center;
+    font-size: 50px;
+}
+.texttable2{
+    text-align: center;
+    font-size: 25px;
+}
